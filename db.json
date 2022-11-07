@@ -1,0 +1,82 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Junior Level Books Introduction to Computer",
+      "author": " Amit Garg",
+      "isbn": "978-93-5019-561-1",
+      "publisher": "Reader's Zone",
+      "year": "2011"
+    },
+    {
+      "id": "2",
+      "title": "Publish News Letter MCA Department",
+      "author": " Amit Garg",
+      "isbn": "978-93-5019-561-1",
+      "publisher": "MIET Meerut",
+      "year": "2011"
+    },
+    {
+      "id": "3",
+      "title": "Computer Networks",
+      "author": " Saurabh Singhal",
+      "isbn": "978-93-5019-561-1",
+      "publisher": "Thakur Publications",
+      "year": "2015-16"
+    },
+    {
+      "id": "4",
+      "title": "Computer Programming Analysis",
+      "author": " Saura singa",
+      "isbn": "978-53-5016-221-3",
+      "publisher": "T T Publications",
+      "year": "2017"
+    },
+    {
+      "id": "5",
+      "title": "Singhal Mobile Computing",
+      "author": "Vinay Kumar",
+      "isbn": "978-93-5009-581-0",
+      "publisher": "K Nath & Sons",
+      "year": "2011"
+    },
+    {
+      "title": "The Almanac of chukwunonso",
+      "author": " Chukwunonso Nwankwo",
+      "isbn": "978-93-5079-501-3",
+      "publisher": "Mandas Publishers",
+      "year": "2022",
+      "id": "aFKAccu"
+    }
+  ],
+  "genre": [
+    {
+      "id": "11",
+      "category": "educational",
+      "age": "all-ages",
+      "rating": "five-star",
+      "Number of purchases": "50000"
+    },
+    {
+      "id": "12",
+      "category": "personal development",
+      "age": "teens",
+      "rating": "five-star",
+      "Number of purchases": "120000"
+    },
+    {
+      "id": "13",
+      "category": "arts and entertainment",
+      "age": "adults",
+      "rating": "three-star",
+      "Number of purchases": "2000"
+    },
+    {
+      "id": "14",
+      "category": "finances",
+      "age": "all-ages",
+      "rating": "four-star",
+      "Number of purchases": "90000"
+    }
+  ]
+}
